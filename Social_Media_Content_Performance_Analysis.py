@@ -9,9 +9,9 @@ Original file is located at
 # **Import Library**
 """
 
-pip install pandas openpyxl
+!pip install pandas openpyxl
 
-pip install streamlit pandas openpyxl xgboost scikit-learn
+!pip install streamlit pandas openpyxl xgboost scikit-learn
 
 !pip install streamlit pyngrok
 
