@@ -11,7 +11,7 @@ Original file is located at
 
 
 
-pip install streamlit pandas openpyxl xgboost scikit-learn
+
 
 !pip install streamlit pyngrok
 
