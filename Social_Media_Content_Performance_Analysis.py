@@ -10,11 +10,6 @@ Original file is located at
 """
 
 
-
-
-
-!pip install streamlit pyngrok
-
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
